@@ -101,7 +101,7 @@ Open your web browser and visit http://localhost:3000 to interact with the Stock
 
 ### Team Members
 
-- Abhishek Mohanty
-- Aditya Kopalli
-- Vishwa Tejendra Pernapati
-- Vishnu V
+- Siva Swaroop Vardhineedi
+- Mahek Virani
+- Varun Papishetty
+- Gaurav Sarkar
