@@ -4,13 +4,6 @@
 
 The Stock Portfolio Suggestion Engine utilizes various investment strategies, such as ethical investing, value investing, growth investing, index investing, and quality investing. It suggests optimal investment options based on the user's input of the investment amount. The user interface presents a detailed report of the recommended stock portfolio, providing a seamless experience.
 
-### Demo of the App
-
-<!-- Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine Demo](https://www.youtube.com/watch?v=iDp8JD8DF80) -->
-
-![App Demo](https://github.com/KopalliAditya/Stock-Suggestion/blob/main/results-thumbnail.PNG)
-
-[YouTube video](https://www.youtube.com/watch?v=KbkJqe3dmPw)
 
 ### Features
 
@@ -37,21 +30,7 @@ The Stock Portfolio Suggestion Engine utilizes various investment strategies, su
     - Real-time values of the overall portfolio (updated regularly).
     - A weekly trend of the portfolio value, including a 5-day history.
 
-### Technologies Utilized
 
-- Flask
-- Python
-- React
-- Node.js
-- JavaScript
-- HTML5
-- CSS3
-- Bootstrap
-- Ant Design
-- Heroku
-- REST
-- IEX Stock API
-- TradingView Market Overview Widget
 
 ### Running the Backend
 1. Navigate to the `backend` directory:
@@ -97,7 +76,13 @@ The Stock Portfolio Suggestion Engine utilizes various investment strategies, su
 
 Open your web browser and visit http://localhost:3000 to interact with the Stock Portfolio Suggestion Engine.
 
+### Demo of the App
 
+<!-- Watch a demonstration of the app on YouTube: [Stock Portfolio Suggestion Engine Demo](https://www.youtube.com/watch?v=iDp8JD8DF80) -->
+
+![App Demo](https://github.com/mahekvirani-sjsu/287-Stockprediction/blob/main/results-thumbnail.PNG)
+
+[YouTube video](https://youtu.be/ho13C6_qh94)
 
 ### Team Members
 
